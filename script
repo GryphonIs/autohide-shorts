@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube Shorts Shelf Autohide
-// @namespace    https://gryphon.is/
+// @namespace    https://gryphon.is/autohide-shorts
 // @version      1.0
 // @description  Automatically hide the YouTube Shorts shelf by sending a button press to the dismiss button.
 // @author       GryphonIs
